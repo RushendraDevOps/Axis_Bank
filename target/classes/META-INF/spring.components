@@ -1,0 +1,2 @@
+Axis.App=org.springframework.stereotype.Component
+Axis.GreetingController=org.springframework.stereotype.Component
